@@ -1,0 +1,4 @@
+需要安装以下Python库：
+在bash中（cmd或powershell）执行以下命令安装需要用到的Python依赖库，将“序号）”后的字母输入进bash执行。
+1）pip install python-docx pandas openpyxl tk
+2）pip install pyinstaller
